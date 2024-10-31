@@ -1,0 +1,4 @@
+Заяц (herbivore)
+Олень (herbivore)
+Волк (carnivore)
+Медведь (omnivore)
