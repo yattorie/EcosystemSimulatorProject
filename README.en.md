@@ -14,3 +14,10 @@ This is an application for managing a virtual ecosystem where users can add plan
 - Population forecasting based on ecosystem parameters (temperature, humidity, amount of available water).
 - All objects are stored in .txt files.
 - A system of predicting which species populations will increase, decrease or remain stable depending on current conditions is implemented.
+
+## Usage
+
+- Launch the application.
+- Select an option: create a new ecosystem or load an existing one.
+- Manage your ecosystem: add plants and animals, edit parameters.
+- View predictions of changes in populations based on current conditions.
